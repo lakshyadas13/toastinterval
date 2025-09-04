@@ -31,7 +31,7 @@
 
 - Android SDK
 - Material Components
-- Kotlin/Java
+- Java (Kotlin can also be used)
 - Handler for interval scheduling
 - Custom fonts (Montserrat-Regular)
 
