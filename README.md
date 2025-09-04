@@ -10,10 +10,9 @@
 - Montserrat Regular font for crisp, readable text
 
 ## Screenshots
+<img width="233" height="520" alt="Screenshot 2025-09-04 at 9 33 39 AM" src="https://github.com/user-attachments/assets/ec5cbd90-2e73-426d-ab34-9418ec5ef5d7" /> <img width="295" height="657" alt="Screenshot 2025-09-04 at 9 29 36 AM" src="https://github.com/user-attachments/assets/33fad50e-c7c9-4571-956e-505cbdfd9712" /> <img width="236" height="521" alt="Screenshot 2025-09-04 at 9 33 23 AM" src="https://github.com/user-attachments/assets/2f1259fa-3af9-4561-972f-b8fb29787e3b" />
 
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b23c1194-0fff-4200-a601-fe0c105cf7a9" />
-<img width="295" height="657" alt="Screenshot 2025-09-04 at 9 29 36 AM" src="https://github.com/user-attachments/assets/33fad50e-c7c9-4571-956e-505cbdfd9712" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a8c01625-415e-4704-a335-b2bd8cf8eeb8" />
+
 
 
 
