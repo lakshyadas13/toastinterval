@@ -11,7 +11,12 @@
 
 ## Screenshots
 
-*(Add your own screenshots here if available)*
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b23c1194-0fff-4200-a601-fe0c105cf7a9" />
+<img width="295" height="657" alt="Screenshot 2025-09-04 at 9 29 36 AM" src="https://github.com/user-attachments/assets/33fad50e-c7c9-4571-956e-505cbdfd9712" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a8c01625-415e-4704-a335-b2bd8cf8eeb8" />
+
+
+
 
 ## Installation
 
